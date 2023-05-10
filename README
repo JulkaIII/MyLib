@@ -1,0 +1,11 @@
+JS library 
+using Typescript
+
+tsconfig.json - to support ES6 modules
+tsconfig.es5.json - to support CommonJS modules
+
+// by video lesson: https://youtu.be/vRmLTZyq57U
+
+
+dist/package.json - settings to push lib to npm.
+
