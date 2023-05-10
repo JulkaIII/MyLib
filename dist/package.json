@@ -1,0 +1,30 @@
+{
+  "name": "@ys/mylib",
+  "version": "1.0.0",
+  "description": "JS library using TypeScript with support of ES6 modules and CommonJS modules",
+  "main": "lib/es5/index.js",
+  "module": "lib/es6/index.js",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulkaIII/MyLib.git"
+  },
+  "files": [
+    "lib",
+    "CHANGELOG.md",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "keywords": [
+    "javascript",
+    "utils",
+    "utilities"
+  ],
+  "author": "YS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JulkaIII/MyLib/issues"
+  },
+  "homepage": "https://github.com/JulkaIII/MyLib#readme"
+}
